@@ -8,7 +8,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamptooon&theme=transparent&layout=donut&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Hamptooon&show_icons=true&theme=transparent&hide_border=true&line_height=28.5&card_width=543) 
+![](https://github-readme-stats.vercel.app/api?username=Hamptooon&show_icons=true&theme=transparent&hide_border=true&line_height=28.5) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamptooon&theme=github_dark_dimmed&hide_border=false&card_width=900)
 
 ## My Stack
