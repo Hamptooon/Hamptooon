@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Hamptooon&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=Hamptooon&color=red&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true"/>
 
 ## Hi there 👋 I'm...
 
