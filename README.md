@@ -1,18 +1,21 @@
 <img src="https://komarev.com/ghpvc/?username=Hamptooon&color=red"/>
 
 ## Hi there 👋 I'm...
+
+
+
 - 🌐 **Frontend enthusiast:** Experienced in creating responsive and efficient web interfaces using HTML, CSS and JavaScript.
 
 - 📚 **Constant learner:** I'm currently delving into learning React and Topescript , to expand my development toolkit.
   
 - 🚀 **Opportunity Seeker:** Looking for internships and interesting projects where I can put my skills to practical and professional use.
 - 🎓 **Student:** Currently studying at Moscow University in the direction of information systems and technologies, I want to connect my life with frontend development, also I'm currently studying at [School 21](https://21-school.ru/), where I'm focusing on advanced programming concepts and technologies.
-
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamptooon&theme=transparent&layout=donut&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Hamptooon&show_icons=true&theme=transparent&hide_border=true&line_height=28.5) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamptooon&theme=github_dark_dimmed&hide_border=false&card_width=900)
-
+---
 ## My Stack
 
 
