@@ -12,7 +12,7 @@
 - 🎓 **Student:** Currently studying at Moscow University in the direction of information systems and technologies, I want to connect my life with frontend development, also I'm currently studying at [School 21](https://21-school.ru/), where I'm focusing on advanced programming concepts and technologies.
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamptooon&theme=transparent&layout=donut&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamptooon&theme=transparent&layout=donut&hide_border=true&langs_count=5&size_weight=0&count_weight=1&hide=c,makefile,php,kotlin)
 ![](https://github-readme-stats.vercel.app/api?username=Hamptooon&show_icons=true&theme=transparent&hide_border=true&line_height=28.5) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamptooon&theme=github_dark_dimmed&hide_border=false&card_width=900)
 ---
